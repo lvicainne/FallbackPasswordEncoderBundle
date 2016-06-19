@@ -29,9 +29,9 @@
         "mockery/mockery": "~0.8"
     },
     "autoload": {
-        "psr-0": { "Lvicainne\\FallbackPasswordEncoderBundle": "" }
+        "psr-0": { "Markup\\FallbackPasswordEncoderBundle": "" }
     },
-    "target-dir": "Lvicainne/FallbackPasswordEncoderBundle",
+    "target-dir": "Markup/FallbackPasswordEncoderBundle",
     "extra": {
         "branch-alias": {
             "dev-master": "1.0-dev"
