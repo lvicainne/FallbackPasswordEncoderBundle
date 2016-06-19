@@ -1,6 +1,6 @@
 {
-    "name": "markup/fallback-password-encoder-bundle",
-    "description": "Bundle providing a password encoder stack for support of legacy user data.",
+    "name": "lvicainne/fallback-password-encoder-bundle",
+    "description": "Bundle providing a password encoder stack for support of legacy user data. / FORK",
     "keywords": ["password", "barcode"],
     "type": "symfony-bundle",
     "license": "MIT",
@@ -23,9 +23,9 @@
         "mockery/mockery": "~0.8"
     },
     "autoload": {
-        "psr-0": { "Markup\\FallbackPasswordEncoderBundle": "" }
+        "psr-0": { "Lvicainne\\FallbackPasswordEncoderBundle": "" }
     },
-    "target-dir": "Markup/FallbackPasswordEncoderBundle",
+    "target-dir": "Lvicainne/FallbackPasswordEncoderBundle",
     "extra": {
         "branch-alias": {
             "dev-master": "1.0-dev"
