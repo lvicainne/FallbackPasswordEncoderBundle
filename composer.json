@@ -14,6 +14,12 @@
             "homepage": "http://www.usemarkup.com/"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/usemarkup/FallbackPasswordEncoderBundle"
+        }
+    ],
     "require": {
         "friendsofsymfony/user-bundle": ">=1.3.3",
         "symfony/security": ">=2.3.6, <3.2"
